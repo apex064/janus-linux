@@ -1,4 +1,30 @@
-for this tool to run  you would need linimobile # libimobiledevice
+for this tool to run  you would need pyqt5 and  libimobiledevice PyQt5 - Comprehensive Python Bindings for Qt v5
+Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development.
+
+PyQt5 is a comprehensive set of Python bindings for Qt v5. It is implemented as more than 35 extension modules and enables Python to be used as an alternative application development language to C++ on all supported platforms including iOS and Android.
+
+PyQt5 may also be embedded in C++ based applications to allow users of those applications to configure or enhance the functionality of those applications.
+
+Author
+PyQt5 is copyright (c) Riverbank Computing Limited. Its homepage is https://www.riverbankcomputing.com/software/pyqt/.
+
+Support may be obtained from the PyQt mailing list at https://www.riverbankcomputing.com/mailman/listinfo/pyqt/.
+
+License
+PyQt5 is released under the GPL v3 license and under a commercial license that allows for the development of proprietary applications.
+
+Documentation
+The documentation for the latest release can be found here.
+
+Installation
+The GPL version of PyQt5 can be installed from PyPI:
+
+pip install PyQt5
+pip will also build and install the bindings from the sdist package but Qt's qmake tool must be on PATH.
+
+The sip-install tool will also install the bindings from the sdist package but will allow you to configure many aspects of the installation.
+
+ # libimobiledevice
 
 *A library to communicate with services on iOS devices using native protocols.*
 
