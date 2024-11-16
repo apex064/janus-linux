@@ -1,4 +1,4 @@
-# libimobiledevice
+for this tool to run  you would need linimobile # libimobiledevice
 
 *A library to communicate with services on iOS devices using native protocols.*
 
